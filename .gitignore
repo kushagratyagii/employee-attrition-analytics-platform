@@ -1,0 +1,23 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Notebooks
+*.ipynb
+
+# Python
+__pycache__/
+*.pyc
+
+# Dataset
+data/
+
+# Anaconda junk
+anaconda_projects/
+
+# Environment
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
