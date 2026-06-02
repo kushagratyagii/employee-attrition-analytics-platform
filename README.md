@@ -8,7 +8,7 @@ The project helps identify employees at risk of leaving the organization and pro
 
 ## 🚀 Live Demo
 
-Coming Soon
+[Try the Live App](https://kushagratyagii-employee-attrition-analytics-platform.hf.space)
 
 ---
 
